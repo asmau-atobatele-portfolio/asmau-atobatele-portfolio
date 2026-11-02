@@ -36,7 +36,7 @@ I'm continuously learning, building projects, and developing my skills in data a
 
 Here are some of the projects I have worked on:
 
-- [**Nobel Prize Dashboard**](./Nobel%20prize%20dashboard.png) – Interactive analysis of Nobel Prize data using Power BI.
+- [View Nobel Prize Dashboard Image](./Nobel%20prize%20dashboard.png) – Interactive analysis of Nobel Prize data using Power BI.
 
 - **Nexora Technologies CRM Sales Performance and Pipeline Dashboard** – Analysis of sales performance, customer insights, and sales pipeline activities using Power BI.
 
@@ -54,7 +54,6 @@ Here are some of the projects I have worked on:
 I'm open to learning opportunities, collaborations, and connecting with other professionals in the data and technology space.
 
 - **LinkedIn:** [Connect with me](https://www.linkedin.com/in/asmau-atobatele/)
-- **GitHub:** [Explore my repositories](https://github.com/asmau-atobatele)
 
 ---
 

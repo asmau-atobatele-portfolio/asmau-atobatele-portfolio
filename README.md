@@ -58,4 +58,4 @@ I'm open to learning opportunities, collaborations, and connecting with other pr
 
 ---
 
-*Always learning, building, and growing — one project at a time.* 🚀
+*Always learning, building, and growing — one project at a time.*
